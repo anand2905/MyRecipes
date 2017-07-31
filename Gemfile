@@ -17,7 +17,7 @@ gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 #gem 'bootstrap-will_paginate', '0.0.10'
 gem 'bootstrap-will_paginate', '~> 1.0'
 gem 'bcrypt', '~> 3.1', '>= 3.1.11' 
-gem 'fog', '1.23.0'  
+gem 'fog' 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
@@ -34,6 +34,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
+gem 'net-ssh'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
