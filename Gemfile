@@ -17,8 +17,8 @@ gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 #gem 'bootstrap-will_paginate', '0.0.10'
 gem 'bootstrap-will_paginate', '~> 1.0'
 gem 'bcrypt', '~> 3.1', '>= 3.1.11' 
-#gem "asset_sync"
-#gem "fog-aws"
+gem "asset_sync"
+gem "fog-aws"
 #gem 'fog', '1.23.0'
 gem 'fog', '~> 1.36.0'
 # Use SCSS for stylesheets
